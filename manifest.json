@@ -1,8 +1,8 @@
 {
   "name": "Yagnik Raval",
   "short_name": "Yagnik Raval",
-  "start_url": "https://yagnik-raval.blogspot.com/",
-  "display": "standalone",
+  "start_url": "https://YagnikR.blogspot.com/",
+  "display": "fullscreen",
   "background_color": "#ffffff",
   "theme_color": "#000000",
   "icons": [
